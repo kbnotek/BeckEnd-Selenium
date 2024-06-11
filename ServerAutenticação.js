@@ -4,7 +4,7 @@ const basicAuth = require('basic-auth'); // Importa o módulo basic-auth
 const path = require('path'); // Importa o módulo path
 const fs = require('fs'); // Importa o módulo fs
 const app = express(); // Cria uma instância do express
-const port = 3000; // Define a porta em que o servidor irá rodar
+const port = 3001; // Define a porta em que o servidor irá rodar
 
 // Array de exemplo com alguns servidores
 let servidores = [

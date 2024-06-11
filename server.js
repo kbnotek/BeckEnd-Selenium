@@ -1,6 +1,6 @@
 const express = require('express'); // Importa o módulo express
 const app = express(); // Cria uma instância do express
-const port = 3000; // Define a porta em que o servidor irá rodar
+const port = 3001; // Define a porta em que o servidor irá rodar
 
 // Array de exemplo com alguns servidores
 let servidores = [
